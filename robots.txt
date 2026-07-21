@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-u6j894.gemigo.io/sitemap.xml
